@@ -64,6 +64,7 @@
 <slot decorator={KevinsDecorator} />
 <footer>
   <a href={$url('./Impressum')}>Impressum</a>
+  <a href={$url('./Datenschutz')}>Datenschutz</a>
 </footer>
 <nav>
   <button on:click={() => menuOpend = !menuOpend} id="menuBtn" class="menuBtn">Menü</button>
