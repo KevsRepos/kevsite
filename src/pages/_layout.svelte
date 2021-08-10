@@ -21,7 +21,6 @@
     ['./index', 'Home'],
     ['./AboutMe', 'Über Mich'],
     ['./MySkillz', 'Meine Skills'],
-    ['./LetsCreate', 'Entwicklung'],
     ['./Contact', 'Kontakt']
   ];
 

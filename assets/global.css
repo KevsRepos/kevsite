@@ -63,6 +63,8 @@ img {
 }
 .icon {
   border: none;
+  height: 64px;
+  width: 64px;
 }
 header, .referenceNav {
   padding: 15px;
