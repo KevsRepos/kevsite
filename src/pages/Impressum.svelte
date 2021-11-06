@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Impressum - Kevin Sheard</title>
+</svelte:head>
+
 <main>
   <div class="flex">
     <div class="row">

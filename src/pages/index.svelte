@@ -9,7 +9,7 @@
       {age} Jahre alt und<br />
       Webentwickler.
     </p>
-    <img alt="Das bin ich" src="/./images/landing.jpeg" />
+    <img alt="Das bin ich" src="/./images/me-in-black-white.jpg" />
   </div>
   <a class="nextSiteBtn" href="/AboutMe">Über Mich ></a>
 </main>

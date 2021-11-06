@@ -9,6 +9,10 @@
 }
 </style>
 
+<svelte:head>
+  <title>Über Mich - Kevin Sheard</title>
+</svelte:head>
+
 <main>
   <div decorator={TabsTransition} class="flex aboutMe">
     <div class="row">

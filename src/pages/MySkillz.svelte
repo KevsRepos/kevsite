@@ -2,6 +2,10 @@
   import { url } from '@roxi/routify';
 </script>
 
+<svelte:head>
+  <title>Mein Stack - Kevin Sheard</title>
+</svelte:head>
+
 <main>
   <div class="flex mySkillz">
     <div class="row">

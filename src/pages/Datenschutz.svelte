@@ -9,6 +9,11 @@
     }
   }
 </style>
+
+<svelte:head>
+  <title>Datenschutzerklärung - Kevin Sheard</title>
+</svelte:head>
+
 <main>
   <div class="flex">
     <div class="row">
